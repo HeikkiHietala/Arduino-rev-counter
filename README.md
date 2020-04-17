@@ -5,7 +5,7 @@ This system is described in detail, complete with building instructions, in my b
 
 https://www.sabulo.com/sb/3d-printing-2/finding-rotation-speed-using-arduino/
 
-![arduino-rev-counter](arduino-rev-counter.png)
+![arduino-rev-counter](arduino-rpm-counter.png)
 
 See it in operation here:
 
